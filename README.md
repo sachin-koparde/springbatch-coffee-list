@@ -12,4 +12,4 @@ Spring Batch is a lightweight, comprehensive batch framework designed to enable 
 - Retry/Skip
 - Web based administration interface
 
-For more info visit: [Spring Batch Official Site](https://spring.io/projects/spring-batch)
+For more info visit: [Spring Official Site](https://spring.io/projects/spring-batch)
